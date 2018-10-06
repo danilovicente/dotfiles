@@ -1,0 +1,715 @@
+sw_volume: 100
+audio_device_state:1:My ALSA Device
+state: pause
+current: 0
+time: 3.239000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Charlie Brown Jr/100% Charlie Brown Jr Abalando a sua fábrica (2001)/Charlie Brown Jr. - 01 - Eu protesto.mp3
+1:Charlie Brown Jr/100% Charlie Brown Jr Abalando a sua fábrica (2001)/Charlie Brown Jr. - 02 - Hoje eu acordei feliz.mp3
+2:Charlie Brown Jr/100% Charlie Brown Jr Abalando a sua fábrica (2001)/Charlie Brown Jr. - 03 - Sino dourado.mp3
+3:Charlie Brown Jr/100% Charlie Brown Jr Abalando a sua fábrica (2001)/Charlie Brown Jr. - 04 - Quebra-mar.mp3
+4:Charlie Brown Jr/100% Charlie Brown Jr Abalando a sua fábrica (2001)/Charlie Brown Jr. - 05 - Lugar ao Sol.mp3
+5:Charlie Brown Jr/100% Charlie Brown Jr Abalando a sua fábrica (2001)/Charlie Brown Jr. - 06 - Descubra o que há de errado com você.MP3
+6:Charlie Brown Jr/100% Charlie Brown Jr Abalando a sua fábrica (2001)/Charlie Brown Jr. - 07 - Só lazer.mp3
+7:Charlie Brown Jr/100% Charlie Brown Jr Abalando a sua fábrica (2001)/Charlie Brown Jr. - 08 - Você vai de limusine, eu vou de trem.MP3
+8:Charlie Brown Jr/100% Charlie Brown Jr Abalando a sua fábrica (2001)/Charlie Brown Jr. - 09 - O lado certo da vida errada.mp3
+9:Charlie Brown Jr/100% Charlie Brown Jr Abalando a sua fábrica (2001)/Charlie Brown Jr. - 10 - T.F.D.P.mp3
+10:Charlie Brown Jr/100% Charlie Brown Jr Abalando a sua fábrica (2001)/Charlie Brown Jr. - 11 - Tudo pro alto.mp3
+11:Charlie Brown Jr/100% Charlie Brown Jr Abalando a sua fábrica (2001)/Charlie Brown Jr. - 12 - Como tudo deve ser.mp3
+12:Charlie Brown Jr/Acústico MTV - Charlie Brown Jr/Quebra Mar.mp3
+13:Charlie Brown Jr/Acústico MTV - Charlie Brown Jr/O Que É Da Casa É Da Casa.mp3
+14:Charlie Brown Jr/Acústico MTV - Charlie Brown Jr/Zoio De Lula.mp3
+15:Charlie Brown Jr/Acústico MTV - Charlie Brown Jr/Vicios E Virtudes.mp3
+16:Charlie Brown Jr/Acústico MTV - Charlie Brown Jr/Hoje.mp3
+17:Charlie Brown Jr/Acústico MTV - Charlie Brown Jr/O Preço.mp3
+18:Charlie Brown Jr/Acústico MTV - Charlie Brown Jr/Tudo Pro Alto.mp3
+19:Charlie Brown Jr/Acústico MTV - Charlie Brown Jr/Não Uso Sapatos.mp3
+20:Charlie Brown Jr/Acústico MTV - Charlie Brown Jr/O Coro Vai Come.mp3
+21:Charlie Brown Jr/Acústico MTV - Charlie Brown Jr/Tudo O Que Ela Gosta De Escuta.mp3
+22:Charlie Brown Jr/Acústico MTV - Charlie Brown Jr/Não É Sério.mp3
+23:Charlie Brown Jr/Acústico MTV - Charlie Brown Jr/Vinheta Beat Box II - Como Tudo Deve Ser.mp3
+24:Charlie Brown Jr/Acústico MTV - Charlie Brown Jr/A Banca (Ratata É Bicho Solto).mp3
+25:Charlie Brown Jr/Acústico MTV - Charlie Brown Jr/Samba Makossa.mp3
+26:Charlie Brown Jr/Acústico MTV - Charlie Brown Jr/Quinta-Feira.mp3
+27:Charlie Brown Jr/Acústico MTV - Charlie Brown Jr/Só Por Uma Noite.mp3
+28:Charlie Brown Jr/Acústico MTV - Charlie Brown Jr/Oba La Vem Ela.mp3
+29:Charlie Brown Jr/Acústico MTV - Charlie Brown Jr/Tudo Mudar.mp3
+30:Charlie Brown Jr/Acústico MTV - Charlie Brown Jr/Proibida Pra Mim.mp3
+31:Charlie Brown Jr/Acústico MTV - Charlie Brown Jr/Charlie Brown Jr..mp3
+32:Charlie Brown Jr/Bocas ordinárias (2002)/Charlie Brown Jr. - 01 - Papo Reto.MP3
+33:Charlie Brown Jr/Bocas ordinárias (2002)/Charlie Brown Jr. - 02 - Hoje eu só procuro a minha paz.MP3
+34:Charlie Brown Jr/Bocas ordinárias (2002)/Charlie Brown Jr. - 03 - Baader-Meinhof Blues.MP3
+35:Charlie Brown Jr/Bocas ordinárias (2002)/Charlie Brown Jr. - 04 - Só por uma noite.MP3
+36:Charlie Brown Jr/Bocas ordinárias (2002)/Charlie Brown Jr. - 05 - My Mini Ramp.MP3
+37:Charlie Brown Jr/Bocas ordinárias (2002)/Charlie Brown Jr. - 06 - Bocas ordinárias, guerrilha.MP3
+38:Charlie Brown Jr/Bocas ordinárias (2002)/Charlie Brown Jr. - 07 - Não fure os olhos da verdade.MP3
+39:Charlie Brown Jr/Bocas ordinárias (2002)/Charlie Brown Jr. - 08 - Sou quem eu sou (O que é seu também é meu e o que é meu não é nosso).MP3
+40:Charlie Brown Jr/Bocas ordinárias (2002)/Charlie Brown Jr. - 09 - Com minha loucura faço meu dinheiro, com meu dinheiro faço minhas loucuras.MP3
+41:Charlie Brown Jr/Bocas ordinárias (2002)/Charlie Brown Jr. - 10 - Somos poucos mas somos loucos.MP3
+42:Charlie Brown Jr/Bocas ordinárias (2002)/Charlie Brown Jr. - 11 - Com a boca amargando.MP3
+43:Charlie Brown Jr/Bocas ordinárias (2002)/Charlie Brown Jr. - 12 - Tarja preta.mp3
+44:Charlie Brown Jr/Camisa 10 joga bola até na chuva (2009)/Charlie Brown Jr. - 01 - Dona do meu pensamento.mp3
+45:Charlie Brown Jr/Camisa 10 joga bola até na chuva (2009)/Charlie Brown Jr. - 02 - Me encontra.mp3
+46:Charlie Brown Jr/Camisa 10 joga bola até na chuva (2009)/Charlie Brown Jr. - 03 - Só os loucos sabem.mp3
+47:Charlie Brown Jr/Camisa 10 joga bola até na chuva (2009)/Charlie Brown Jr. - 04 - Inabalavelmente.mp3
+48:Charlie Brown Jr/Camisa 10 joga bola até na chuva (2009)/Charlie Brown Jr. - 05 - Só existe o agora.mp3
+49:Charlie Brown Jr/Camisa 10 joga bola até na chuva (2009)/Charlie Brown Jr. - 06 - Só pra vadiar.mp3
+50:Charlie Brown Jr/Camisa 10 joga bola até na chuva (2009)/Charlie Brown Jr. - 07 - Puro sangue.mp3
+51:Charlie Brown Jr/Camisa 10 joga bola até na chuva (2009)/Charlie Brown Jr. - 08 - O dom, a inteligência e a voz.mp3
+52:Charlie Brown Jr/Camisa 10 joga bola até na chuva (2009)/Charlie Brown Jr. - 09 - Os cortes.mp3
+53:Charlie Brown Jr/Camisa 10 joga bola até na chuva (2009)/Charlie Brown Jr. - 10 - Uma só vida pra viver, tenho sede nela eu vou.mp3
+54:Charlie Brown Jr/Camisa 10 joga bola até na chuva (2009)/Charlie Brown Jr. - 11 - Viver dias de Sol.mp3
+55:Charlie Brown Jr/Camisa 10 joga bola até na chuva (2009)/Charlie Brown Jr. - 12 - Comigo ninguém tira onda.mp3
+56:Charlie Brown Jr/Camisa 10 joga bola até na chuva (2009)/Charlie Brown Jr. - 13 - Camisa 10 joga bola até na chuva (Bomba sônica).mp3
+57:Charlie Brown Jr/Charlie Brown Jr - Música Popular Caiçara/Charlie Brown Jr - Rubão.mp3
+58:Charlie Brown Jr/Charlie Brown Jr - Música Popular Caiçara/Charlie Brown Jr - Proibida Pra Mim.mp3
+59:Charlie Brown Jr/Charlie Brown Jr - Música Popular Caiçara/Charlie Brown Jr - Te Levar.mp3
+60:Charlie Brown Jr/Charlie Brown Jr - Música Popular Caiçara/Charlie Brown Jr - Não É Sério.mp3
+61:Charlie Brown Jr/Charlie Brown Jr - Música Popular Caiçara/Charlie Brown Jr - Me Encontra.mp3
+62:Charlie Brown Jr/Charlie Brown Jr - Música Popular Caiçara/Charlie Brown Jr - Coração Satânico.mp3
+63:Charlie Brown Jr/Charlie Brown Jr - Música Popular Caiçara/Charlie Brown Jr - Pontes Indestrutveis.mp3
+64:Charlie Brown Jr/Charlie Brown Jr - Música Popular Caiçara/Charlie Brown Jr - Resolve O Meu Problema Ai.mp3
+65:Charlie Brown Jr/Charlie Brown Jr - Música Popular Caiçara/Charlie Brown Jr - Tudo Que Ela Gosta De Escutar.mp3
+66:Charlie Brown Jr/Charlie Brown Jr - Música Popular Caiçara/Charlie Brown Jr - O Coro Vai Comer.mp3
+67:Charlie Brown Jr/Charlie Brown Jr - Música Popular Caiçara/Charlie Brown Jr - Céu Azul.mp3
+68:Charlie Brown Jr/Imunidade musical (2005)/Charlie Brown Jr. - 01 - Too Fast to Live Too Young to Die.mp3
+69:Charlie Brown Jr/Imunidade musical (2005)/Charlie Brown Jr. - 02 - No passo a passo.mp3
+70:Charlie Brown Jr/Imunidade musical (2005)/Charlie Brown Jr. - 03 - Lutar pelo que é meu.mp3
+71:Charlie Brown Jr/Imunidade musical (2005)/Charlie Brown Jr. - 04 - É quente.MP3
+72:Charlie Brown Jr/Imunidade musical (2005)/Charlie Brown Jr. - 05 - Onde não existe a paz não existe o amor.mp3
+73:Charlie Brown Jr/Imunidade musical (2005)/Charlie Brown Jr. - 06 - Ela vai voltar (Todos os defeitos de uma mulher perfeita).mp3
+74:Charlie Brown Jr/Imunidade musical (2005)/Charlie Brown Jr. - 07 - O mundo explodiu lá fora.mp3
+75:Charlie Brown Jr/Imunidade musical (2005)/Charlie Brown Jr. - 08 - Senhor do tempo.mp3
+76:Charlie Brown Jr/Imunidade musical (2005)/Charlie Brown Jr. - 09 - Liberdade acima de tudo.mp3
+77:Charlie Brown Jr/Imunidade musical (2005)/Charlie Brown Jr. - 10 - Pra não dizer que não falei das flores.mp3
+78:Charlie Brown Jr/Imunidade musical (2005)/Charlie Brown Jr. - 11 - Abrir seus olhos.mp3
+79:Charlie Brown Jr/Imunidade musical (2005)/Charlie Brown Jr. - 12 - Green Goes.mp3
+80:Charlie Brown Jr/Imunidade musical (2005)/Charlie Brown Jr. - 13 - I Feel So Good Today.mp3
+81:Charlie Brown Jr/Imunidade musical (2005)/Charlie Brown Jr. - 14 - Peso da batida do errado que deu certo.mp3
+82:Charlie Brown Jr/Imunidade musical (2005)/Charlie Brown Jr. - 15 - Aquela paz.mp3
+83:Charlie Brown Jr/Imunidade musical (2005)/Charlie Brown Jr. - 16 - Cada cabeça falante tem sua tromba de elefante.mp3
+84:Charlie Brown Jr/Imunidade musical (2005)/Charlie Brown Jr. - 17 - Onde está o mundo bom (Living in L.A.).mp3
+85:Charlie Brown Jr/Imunidade musical (2005)/Charlie Brown Jr. - 18 - O nosso Blues.mp3
+86:Charlie Brown Jr/Imunidade musical (2005)/Charlie Brown Jr. - 19 - O futuro é um labirinto pra quem não sabe o que quer.mp3
+87:Charlie Brown Jr/Imunidade musical (2005)/Charlie Brown Jr. - 20 - Na palma da mão O ragga da Baixada.mp3
+88:Charlie Brown Jr/Imunidade musical (2005)/Charlie Brown Jr. - 21 - Skate Vibration.mp3
+89:Charlie Brown Jr/Imunidade musical (2005)/Charlie Brown Jr. - 22 - Criando anticorpos.mp3
+90:Charlie Brown Jr/Imunidade musical (2005)/Charlie Brown Jr. - 23 - Dias de luta, dias de glória.mp3
+91:Charlie Brown Jr/Nadando com os tubarões (2000)/Charlie Brown Jr. - 01 - Rubão.mp3
+92:Charlie Brown Jr/Nadando com os tubarões (2000)/Charlie Brown Jr. - 02 - Ralé.mp3
+93:Charlie Brown Jr/Nadando com os tubarões (2000)/Charlie Brown Jr. - 03 - Não é sério.mp3
+94:Charlie Brown Jr/Nadando com os tubarões (2000)/Charlie Brown Jr. - 04 - O penetra.mp3
+95:Charlie Brown Jr/Nadando com os tubarões (2000)/Charlie Brown Jr. - 05 - A banca.mp3
+96:Charlie Brown Jr/Nadando com os tubarões (2000)/Charlie Brown Jr. - 06 - Tudo mudar.mp3
+97:Charlie Brown Jr/Nadando com os tubarões (2000)/Charlie Brown Jr. - 07 - Fichado.mp3
+98:Charlie Brown Jr/Nadando com os tubarões (2000)/Charlie Brown Jr. - 08 - Ouviu-se falar.mp3
+99:Charlie Brown Jr/Nadando com os tubarões (2000)/Charlie Brown Jr. - 09 - Amor pelas ruas.mp3
+100:Charlie Brown Jr/Nadando com os tubarões (2000)/Charlie Brown Jr. - 10 - Essa é por quem ficou pra trás.mp3
+101:Charlie Brown Jr/Nadando com os tubarões (2000)/Charlie Brown Jr. - 11 - Transar no escuro.mp3
+102:Charlie Brown Jr/Nadando com os tubarões (2000)/Charlie Brown Jr. - 12 - Fundão.mp3
+103:Charlie Brown Jr/Nadando com os tubarões (2000)/Charlie Brown Jr. - 13 - Somos extremes no esporte e na música.mp3
+104:Charlie Brown Jr/Nadando com os tubarões (2000)/Charlie Brown Jr. - 14 - Talvez a metade do caminho.mp3
+105:Charlie Brown Jr/Nadando com os tubarões (2000)/Charlie Brown Jr. - 15 - Pra mais tarde fazermos a cabeça.mp3
+106:Charlie Brown Jr/Nadando com os tubarões (2000)/Charlie Brown Jr. - 16 - No desafio, Ibiraboys A união prevalece.mp3
+107:Charlie Brown Jr/Nadando com os tubarões (2000)/Charlie Brown Jr. - 17 - Trocando uma idéia com Deus.mp3
+108:Charlie Brown Jr/Preço curto, prazo longo (1999)/Charlie Brown Jr. - 01 - Confisco.mp3
+109:Charlie Brown Jr/Preço curto, prazo longo (1999)/Charlie Brown Jr. - 02 - Zóio d lula.mp3
+110:Charlie Brown Jr/Preço curto, prazo longo (1999)/Charlie Brown Jr. - 03 - Resolve meu problema aí.mp3
+111:Charlie Brown Jr/Preço curto, prazo longo (1999)/Charlie Brown Jr. - 04 - Te levar.mp3
+112:Charlie Brown Jr/Preço curto, prazo longo (1999)/Charlie Brown Jr. - 05 - O que é da casa é da casa.mp3
+113:Charlie Brown Jr/Preço curto, prazo longo (1999)/Charlie Brown Jr. - 06 - O preço.mp3
+114:Charlie Brown Jr/Preço curto, prazo longo (1999)/Charlie Brown Jr. - 07 - Não deixe o mar te engolir.mp3
+115:Charlie Brown Jr/Preço curto, prazo longo (1999)/Charlie Brown Jr. - 08 - Hoje de noite.mp3
+116:Charlie Brown Jr/Preço curto, prazo longo (1999)/Charlie Brown Jr. - 09 - Bons aliados.mp3
+117:Charlie Brown Jr/Preço curto, prazo longo (1999)/Charlie Brown Jr. - 10 - Puxa carro.mp3
+118:Charlie Brown Jr/Preço curto, prazo longo (1999)/Charlie Brown Jr. - 11 - União.mp3
+119:Charlie Brown Jr/Preço curto, prazo longo (1999)/Charlie Brown Jr. - 12 - Aquele velho carteado e algumas manobrinhas.mp3
+120:Charlie Brown Jr/Preço curto, prazo longo (1999)/Charlie Brown Jr. - 13 - 333.mp3
+121:Charlie Brown Jr/Preço curto, prazo longo (1999)/Charlie Brown Jr. - 14 - Mantenha a dúvida.mp3
+122:Charlie Brown Jr/Preço curto, prazo longo (1999)/Charlie Brown Jr. - 15 - Do surf.mp3
+123:Charlie Brown Jr/Preço curto, prazo longo (1999)/Charlie Brown Jr. - 16 - História mal escrita.mp3
+124:Charlie Brown Jr/Preço curto, prazo longo (1999)/Charlie Brown Jr. - 17 - Chicano (Skate nos cano).mp3
+125:Charlie Brown Jr/Preço curto, prazo longo (1999)/Charlie Brown Jr. - 18 - A grande volta.mp3
+126:Charlie Brown Jr/Preço curto, prazo longo (1999)/Charlie Brown Jr. - 19 - Cruzei uma doida.mp3
+127:Charlie Brown Jr/Preço curto, prazo longo (1999)/Charlie Brown Jr. - 20 - 12+1.mp3
+128:Charlie Brown Jr/Preço curto, prazo longo (1999)/Charlie Brown Jr. - 21 - Cidade grande.mp3
+129:Charlie Brown Jr/Preço curto, prazo longo (1999)/Charlie Brown Jr. - 22 - Local.mp3
+130:Charlie Brown Jr/Preço curto, prazo longo (1999)/Charlie Brown Jr. - 23 - Muito antes que você.mp3
+131:Charlie Brown Jr/Preço curto, prazo longo (1999)/Charlie Brown Jr. - 24 - Depois de uma bela Session (Um belo sofá, cerveja, pizza e um videozinho de SKT).mp3
+132:Charlie Brown Jr/Preço curto, prazo longo (1999)/Charlie Brown Jr. - 25 - Deu entrada prá subir!.mp3
+133:Charlie Brown Jr/Ritmo, ritual e responsa (2007)/Charlie Brown Jr. - 01 - Pontes indestrutíveis.mp3
+134:Charlie Brown Jr/Ritmo, ritual e responsa (2007)/Charlie Brown Jr. - 02 - O que ela gosta é de barriga.MP3
+135:Charlie Brown Jr/Ritmo, ritual e responsa (2007)/Charlie Brown Jr. - 03 - Não viva em vão.mp3
+136:Charlie Brown Jr/Ritmo, ritual e responsa (2007)/Charlie Brown Jr. - 04 - Ritmo, ritual e responsa.MP3
+137:Charlie Brown Jr/Ritmo, ritual e responsa (2007)/Charlie Brown Jr. - 05 - Be Myself.MP3
+138:Charlie Brown Jr/Ritmo, ritual e responsa (2007)/Charlie Brown Jr. - 06 - Uma criança com seu olhar.MP3
+139:Charlie Brown Jr/Ritmo, ritual e responsa (2007)/Charlie Brown Jr. - 07 - Liberdade é tudo (instrumental).MP3
+140:Charlie Brown Jr/Ritmo, ritual e responsa (2007)/Charlie Brown Jr. - 08 - O universo a nosso favor.mp3
+141:Charlie Brown Jr/Ritmo, ritual e responsa (2007)/Charlie Brown Jr. - 09 - Ninguém entende você.MP3
+142:Charlie Brown Jr/Ritmo, ritual e responsa (2007)/Charlie Brown Jr. - 10 - Quando tudo aconteceu (instrumental).MP3
+143:Charlie Brown Jr/Ritmo, ritual e responsa (2007)/Charlie Brown Jr. - 11 - Beco sem saída.MP3
+144:Charlie Brown Jr/Ritmo, ritual e responsa (2007)/Charlie Brown Jr. - 12 - Sem medo da escuridão.mp3
+145:Charlie Brown Jr/Ritmo, ritual e responsa (2007)/Charlie Brown Jr. - 13 - Nua, linda e inigualável.MP3
+146:Charlie Brown Jr/Ritmo, ritual e responsa (2007)/Charlie Brown Jr. - 14 - Vida de magnata.MP3
+147:Charlie Brown Jr/Ritmo, ritual e responsa (2007)/Charlie Brown Jr. - 15 - Que espécie de vermes são vocês.MP3
+148:Charlie Brown Jr/Ritmo, ritual e responsa (2007)/Charlie Brown Jr. - 16 - Buscando um novo rumo (instrumental).MP3
+149:Charlie Brown Jr/Ritmo, ritual e responsa (2007)/Charlie Brown Jr. - 17 - Vivendo a vida numa louca viagem.MP3
+150:Charlie Brown Jr/Ritmo, ritual e responsa (2007)/Charlie Brown Jr. - 18 - Curva de Hill.MP3
+151:Charlie Brown Jr/Ritmo, ritual e responsa (2007)/Charlie Brown Jr. - 19 - Direto e reto sempre.MP3
+152:Charlie Brown Jr/Ritmo, ritual e responsa (2007)/Charlie Brown Jr. - 20 - Skateboard amor eterno.MP3
+153:Charlie Brown Jr/Ritmo, ritual e responsa (2007)/Charlie Brown Jr. - 21 - Café Fundation (instrumental).MP3
+154:Charlie Brown Jr/Ritmo, ritual e responsa (2007)/Charlie Brown Jr. - 22 - Paranormal.mp3
+155:Charlie Brown Jr/Ritmo, ritual e responsa (2007)/Charlie Brown Jr. - 23 - Senhor do Tempo.MP3
+156:Charlie Brown Jr/Tamo aí na atividade (2004)/Charlie Brown Jr. - 01 - Malabarizando (Quem é de fé continua com a gente).mp3
+157:Charlie Brown Jr/Tamo aí na atividade (2004)/Charlie Brown Jr. - 02 - Champanhe e água benta.mp3
+158:Charlie Brown Jr/Tamo aí na atividade (2004)/Charlie Brown Jr. - 03 - Tâmo aí na atividade.mp3
+159:Charlie Brown Jr/Tamo aí na atividade (2004)/Charlie Brown Jr. - 04 - Eu vim de Santos, sou Charlie Brown.mp3
+160:Charlie Brown Jr/Tamo aí na atividade (2004)/Charlie Brown Jr. - 05 - So Far Away.mp3
+161:Charlie Brown Jr/Tamo aí na atividade (2004)/Charlie Brown Jr. - 06 - Longe de você.mp3
+162:Charlie Brown Jr/Tamo aí na atividade (2004)/Charlie Brown Jr. - 07 - Di-SK8 eu vim.mp3
+163:Charlie Brown Jr/Tamo aí na atividade (2004)/Charlie Brown Jr. - 08 - Di-SK8 eu vou.mp3
+164:Charlie Brown Jr/Tamo aí na atividade (2004)/Charlie Brown Jr. - 09 - Vivendo nesse absurdo.mp3
+165:Charlie Brown Jr/Tamo aí na atividade (2004)/Charlie Brown Jr. - 10 - Todos iguais.mp3
+166:Charlie Brown Jr/Tamo aí na atividade (2004)/Charlie Brown Jr. - 11 - Cheirando cola.mp3
+167:Charlie Brown Jr/Tamo aí na atividade (2004)/Charlie Brown Jr. - 12 - O errado que deu certo.mp3
+168:Charlie Brown Jr/Tamo aí na atividade (2004)/Charlie Brown Jr. - 13 - Malokero SK8 board.mp3
+169:Charlie Brown Jr/Tamo aí na atividade (2004)/Charlie Brown Jr. - 14 - Indicados para o Prêmio Nobel da Paz.mp3
+170:Charlie Brown Jr/Tamo aí na atividade (2004)/Charlie Brown Jr. - 15 - O lixo e o luxo.mp3
+171:Charlie Brown Jr/Transpiração contínua prolongada (1997)/Charlie Brown Jr. - 01 - Tributo ao frango da Malásia (intro).mp3
+172:Charlie Brown Jr/Transpiração contínua prolongada (1997)/Charlie Brown Jr. - 02 - O coro vai comê!.mp3
+173:Charlie Brown Jr/Transpiração contínua prolongada (1997)/Charlie Brown Jr. - 03 - Tudo que ela gosta de escutar.mp3
+174:Charlie Brown Jr/Transpiração contínua prolongada (1997)/Charlie Brown Jr. - 04 - Sheik.mp3
+175:Charlie Brown Jr/Transpiração contínua prolongada (1997)/Charlie Brown Jr. - 05 - Hei ! Arreia. (vinheta).mp3
+176:Charlie Brown Jr/Transpiração contínua prolongada (1997)/Charlie Brown Jr. - 06 - Gimme o anel.mp3
+177:Charlie Brown Jr/Transpiração contínua prolongada (1997)/Charlie Brown Jr. - 07 - Molengol's groove (vinheta).mp3
+178:Charlie Brown Jr/Transpiração contínua prolongada (1997)/Charlie Brown Jr. - 08 - Aquela paz.mp3
+179:Charlie Brown Jr/Transpiração contínua prolongada (1997)/Charlie Brown Jr. - 09 - Quinta-feira.mp3
+180:Charlie Brown Jr/Transpiração contínua prolongada (1997)/Charlie Brown Jr. - 10 - Proibida pra mim (Grazon).mp3
+181:Charlie Brown Jr/Transpiração contínua prolongada (1997)/Charlie Brown Jr. - 11 - Lombra.mp3
+182:Charlie Brown Jr/Transpiração contínua prolongada (1997)/Charlie Brown Jr. - 12 - Corra vagabundo.mp3
+183:Charlie Brown Jr/Transpiração contínua prolongada (1997)/Charlie Brown Jr. - 13 - Falar, falar.mp3
+184:Charlie Brown Jr/Transpiração contínua prolongada (1997)/Charlie Brown Jr. - 14 - Festa.mp3
+185:Charlie Brown Jr/Transpiração contínua prolongada (1997)/Charlie Brown Jr. - 15 - Escalas tropicais.mp3
+186:Charlie Brown Jr/Transpiração contínua prolongada (1997)/Charlie Brown Jr. - 16 - Charlie Brown Jr.mp3
+187:Childish Gambino/Childish Gambino - This is America.mp3
+188:Childish Gambino/“Awaken, My Love!” (2016)/Childish Gambino - 01 - Me and Your Mama.mp3
+189:Childish Gambino/“Awaken, My Love!” (2016)/Childish Gambino - 02 - Have Some Love.mp3
+190:Childish Gambino/“Awaken, My Love!” (2016)/Childish Gambino - 03 - Boogieman.mp3
+191:Childish Gambino/“Awaken, My Love!” (2016)/Childish Gambino - 04 - Zombies.mp3
+192:Childish Gambino/“Awaken, My Love!” (2016)/Childish Gambino - 05 - Riot.mp3
+193:Childish Gambino/“Awaken, My Love!” (2016)/Childish Gambino - 06 - Redbone.mp3
+194:Childish Gambino/“Awaken, My Love!” (2016)/Childish Gambino - 07 - California.mp3
+195:Childish Gambino/“Awaken, My Love!” (2016)/Childish Gambino - 08 - Terrified.mp3
+196:Childish Gambino/“Awaken, My Love!” (2016)/Childish Gambino - 09 - Baby Boy.mp3
+197:Childish Gambino/“Awaken, My Love!” (2016)/Childish Gambino - 10 - The Night Me and Your Mama Met.mp3
+198:Childish Gambino/“Awaken, My Love!” (2016)/Childish Gambino - 11 - Stand Tall.mp3
+199:Childish Gambino/Because the Internet (2013)/Childish Gambino - 01 - The Library (intro).flac
+200:Childish Gambino/Because the Internet (2013)/Childish Gambino - 02 - I. Crawl.flac
+201:Childish Gambino/Because the Internet (2013)/Childish Gambino - 03 - II. Worldstar.flac
+202:Childish Gambino/Because the Internet (2013)/Childish Gambino - 04 - Dial Up.flac
+203:Childish Gambino/Because the Internet (2013)/Childish Gambino - 05 - I. The Worst Guys.flac
+204:Childish Gambino/Because the Internet (2013)/Childish Gambino - 06 - II. Shadows.flac
+205:Childish Gambino/Because the Internet (2013)/Childish Gambino - 07 - III. Telegraph Ave. (Oakland by Lloyd).flac
+206:Childish Gambino/Because the Internet (2013)/Childish Gambino - 08 - IV. Sweatpants.flac
+207:Childish Gambino/Because the Internet (2013)/Childish Gambino - 09 - V. 3005.flac
+208:Childish Gambino/Because the Internet (2013)/Childish Gambino - 10 - Playing Around Before the Party Starts.flac
+209:Childish Gambino/Because the Internet (2013)/Childish Gambino - 11 - I. The Party.flac
+210:Childish Gambino/Because the Internet (2013)/Childish Gambino - 12 - II. No Exit.flac
+211:Childish Gambino/Because the Internet (2013)/Childish Gambino - 13 - Death by Numbers.flac
+212:Childish Gambino/Because the Internet (2013)/Childish Gambino - 14 - I. Flight of the Navigator.flac
+213:Childish Gambino/Because the Internet (2013)/Childish Gambino - 15 - II. Zealots of Stockholm (Free Information).flac
+214:Childish Gambino/Because the Internet (2013)/Childish Gambino - 16 - III. Urn.flac
+215:Childish Gambino/Because the Internet (2013)/Childish Gambino - 17 - Pink Toes.flac
+216:Childish Gambino/Because the Internet (2013)/Childish Gambino - 18 - Earth The Oldest Computer (The Last Night).flac
+217:Childish Gambino/Because the Internet (2013)/Childish Gambino - 19 - Life The Biggest Troll (Andrew Auernheimer).flac
+218:Childish Gambino/Camp (2011)/Childish Gambino - 01 - Outside.m4a
+219:Childish Gambino/Camp (2011)/Childish Gambino - 02 - Fire Fly.m4a
+220:Childish Gambino/Camp (2011)/Childish Gambino - 03 - Bonfire.m4a
+221:Childish Gambino/Camp (2011)/Childish Gambino - 04 - All the Shine.m4a
+222:Childish Gambino/Camp (2011)/Childish Gambino - 05 - Letter Home.m4a
+223:Childish Gambino/Camp (2011)/Childish Gambino - 06 - Heartbeat.m4a
+224:Childish Gambino/Camp (2011)/Childish Gambino - 07 - Backpackers.m4a
+225:Childish Gambino/Camp (2011)/Childish Gambino - 08 - L.E.S.m4a
+226:Childish Gambino/Camp (2011)/Childish Gambino - 09 - Hold You Down.m4a
+227:Childish Gambino/Camp (2011)/Childish Gambino - 10 - Kids (Keep Up).m4a
+228:Childish Gambino/Camp (2011)/Childish Gambino - 11 - You See Me.m4a
+229:Childish Gambino/Camp (2011)/Childish Gambino - 12 - Sunrise.m4a
+230:Childish Gambino/Camp (2011)/Childish Gambino - 13 - That Power.m4a
+231:Childish Gambino/Camp (2011)/Childish Gambino - 14 - Freaks & Geeks.m4a
+232:Childish Gambino/Camp (2011)/Childish Gambino - 15 - Not Going Back.m4a
+233:Childish Gambino/Camp (2011)/Childish Gambino - 16 - Heartbeat (Treasure Fingers remix).m4a
+234:Childish Gambino/Camp (2011)/Childish Gambino - 17 - Heartbeat (Oliver remix).m4a
+235:Criolo/Ainda há tempo (2006)/Criolo - 01 - Intro.mp3
+236:Criolo/Ainda há tempo (2006)/Criolo - 02 - É o teste.mp3
+237:Criolo/Ainda há tempo (2006)/Criolo - 03 - Rap é forte.mp3
+238:Criolo/Ainda há tempo (2006)/Criolo - 04 - Voz e violão.mp3
+239:Criolo/Ainda há tempo (2006)/Criolo - 05 - Tô pra vê.mp3
+240:Criolo/Ainda há tempo (2006)/Criolo - 06 - Chega.mp3
+241:Criolo/Ainda há tempo (2006)/Criolo - 07 - No sapatinho.mp3
+242:Criolo/Ainda há tempo (2006)/Criolo - 08 - Morto vivo.mp3
+243:Criolo/Ainda há tempo (2006)/Criolo - 09 - Ainda há tempo.mp3
+244:Criolo/Ainda há tempo (2006)/Criolo - 10 - Sabedoria de Ébano.mp3
+245:Criolo/Ainda há tempo (2006)/Criolo - 11 - Atenção.mp3
+246:Criolo/Ainda há tempo (2006)/Criolo - 12 - Demorô.mp3
+247:Criolo/Ainda há tempo (2006)/Criolo - 13 - Rádio Criolo.mp3
+248:Criolo/Ainda há tempo (2006)/Criolo - 14 - Casca de ovo.mp3
+249:Criolo/Ainda há tempo (2006)/Criolo - 15 - Breáco.mp3
+250:Criolo/Ainda há tempo (2006)/Criolo - 16 - Chuva ácida.mp3
+251:Criolo/Ainda há tempo (2006)/Criolo - 17 - Roba a cena.mp3
+252:Criolo/Ainda há tempo (2006)/Criolo - 18 - Aprendiz.mp3
+253:Criolo/Ainda há tempo (2006)/Criolo - 19 - A real.mp3
+254:Criolo/Ainda há tempo (2006)/Criolo - 20 - Rádio Criolo.mp3
+255:Criolo/Ainda há tempo (2006)/Criolo - 21 - Até me emocionei (Part. Bastardo).mp3
+256:Criolo/Ainda há tempo (2006)/Criolo - 22 - Agradeço a quem devo (Escuta).mp3
+257:Criolo/Convoque seu Buda (2014)/Criolo - 01 - Convoque seu Buda.mp3
+258:Criolo/Convoque seu Buda (2014)/Criolo - 02 - Esquiva da esgrima.mp3
+259:Criolo/Convoque seu Buda (2014)/Criolo - 03 - Cartão de visita.mp3
+260:Criolo/Convoque seu Buda (2014)/Criolo - 04 - Casa de papelão.mp3
+261:Criolo/Convoque seu Buda (2014)/Criolo - 05 - Fermento pra massa.mp3
+262:Criolo/Convoque seu Buda (2014)/Criolo - 06 - Pé de breque.mp3
+263:Criolo/Convoque seu Buda (2014)/Criolo - 07 - Pegue pra ela.mp3
+264:Criolo/Convoque seu Buda (2014)/Criolo - 08 - Plano de voo.mp3
+265:Criolo/Convoque seu Buda (2014)/Criolo - 09 - Duas de cinco.mp3
+266:Criolo/Convoque seu Buda (2014)/Criolo - 10 - Fio de prumo (Padê Onã).mp3
+267:Criolo/Criolo e Emicida - Ao Vivo/Criolo e Emicida - Zica, Vai Lá.mp3
+268:Criolo/Criolo e Emicida - Ao Vivo/Criolo e Emicida - Dedo Na Ferida.mp3
+269:Criolo/Criolo e Emicida - Ao Vivo/Criolo e Emicida - Rua Augusta.mp3
+270:Criolo/Criolo e Emicida - Ao Vivo/Criolo e Emicida - Mariô.mp3
+271:Criolo/Criolo e Emicida - Ao Vivo/Criolo e Emicida - Subirusdoistiozin.mp3
+272:Criolo/Criolo e Emicida - Ao Vivo/Criolo e Emicida - Demorô.mp3
+273:Criolo/Criolo e Emicida - Ao Vivo/Criolo e Emicida - Viva (Melô Dos Vileros).mp3
+274:Criolo/Criolo e Emicida - Ao Vivo/Criolo e Emicida - Só Mais Uma Noite (Part. Evandro Fióti).mp3
+275:Criolo/Criolo e Emicida - Ao Vivo/Criolo e Emicida - Não Existe Amor Em SP.mp3
+276:Criolo/Criolo e Emicida - Ao Vivo/Criolo e Emicida - Linha de Frente (Part. Rodrigo Campos).mp3
+277:Criolo/Criolo e Emicida - Ao Vivo/Criolo e Emicida - A Cada Vento.mp3
+278:Criolo/Criolo e Emicida - Ao Vivo/Criolo e Emicida - Outras Palavras.mp3
+279:Criolo/Criolo e Emicida - Ao Vivo/Criolo e Emicida - Lion Man.mp3
+280:Criolo/Criolo e Emicida - Ao Vivo/Criolo e Emicida - Grajauex.mp3
+281:Criolo/Criolo e Emicida - Ao Vivo/Criolo e Emicida - Triunfo.mp3
+282:Criolo/Criolo e Emicida - Ao Vivo/Criolo e Emicida - Capítulo 4, Versículo 3 (Part. Mano Brown).mp3
+283:Criolo/Criolo e Emicida - Ao Vivo/Criolo e Emicida - Vida Loka I (Part. Mano Brown).mp3
+284:Criolo/Criolo e Emicida - Ao Vivo/Criolo e Emicida - Bogotá.mp3
+285:Criolo/Nó na orelha (2011)/Criolo - 01 - Bogotá.mp3
+286:Criolo/Nó na orelha (2011)/Criolo - 02 - Subirusdoistiozin.mp3
+287:Criolo/Nó na orelha (2011)/Criolo - 03 - Não existe amor em SP.mp3
+288:Criolo/Nó na orelha (2011)/Criolo - 04 - Mariô.mp3
+289:Criolo/Nó na orelha (2011)/Criolo - 05 - Freguês da meia-noite.mp3
+290:Criolo/Nó na orelha (2011)/Criolo - 06 - Grajauex.mp3
+291:Criolo/Nó na orelha (2011)/Criolo - 07 - Samba-sambei.mp3
+292:Criolo/Nó na orelha (2011)/Criolo - 08 - Sucrilhos.mp3
+293:Criolo/Nó na orelha (2011)/Criolo - 09 - Lion man.mp3
+294:Criolo/Nó na orelha (2011)/Criolo - 10 - Linha de frente.mp3
+295:Marcelo D2/A arte do barulho (2008)/Marcelo D2 - 01 - A arte do barulho.mp3
+296:Marcelo D2/A arte do barulho (2008)/Marcelo D2 - 02 - Desabafo.mp3
+297:Marcelo D2/A arte do barulho (2008)/Marcelo D2 - 03 - Fala sério!.mp3
+298:Marcelo D2/A arte do barulho (2008)/Marcelo D2 - 04 - Pode acreditar (Meu laiá laiá).mp3
+299:Marcelo D2/A arte do barulho (2008)/Marcelo D2 - 05 - Oquêcêqué.mp3
+300:Marcelo D2/A arte do barulho (2008)/Marcelo D2 - 06 - Atividade na laje.mp3
+301:Marcelo D2/A arte do barulho (2008)/Marcelo D2 - 07 - Ela disse.mp3
+302:Marcelo D2/A arte do barulho (2008)/Marcelo D2 - 08 - Kush.mp3
+303:Marcelo D2/A arte do barulho (2008)/Marcelo D2 - 09 - Meu tambor.mp3
+304:Marcelo D2/A arte do barulho (2008)/Marcelo D2 - 10 - Afropunk no Valle do Rap.mp3
+305:Marcelo D2/A arte do barulho (2008)/Marcelo D2 - 11 - Minha missão.mp3
+306:Marcelo D2/A arte do barulho (2008)/Marcelo D2 - 12 - Vem comigo que eu te levo pro céu.mp3
+307:Marcelo D2/A invasão do sagaz homem fumaça (2000)/Marcelo D2 - 01 - 12 com dezoito.mp3
+308:Marcelo D2/A invasão do sagaz homem fumaça (2000)/Marcelo D2 - 02 - Ex-quadrilha da fumaça.mp3
+309:Marcelo D2/A invasão do sagaz homem fumaça (2000)/Marcelo D2 - 03 - Teste drive de freio de camburão.mp3
+310:Marcelo D2/A invasão do sagaz homem fumaça (2000)/Marcelo D2 - 04 - Procedência C.D.mp3
+311:Marcelo D2/A invasão do sagaz homem fumaça (2000)/Marcelo D2 - 05 - Stab.mp3
+312:Marcelo D2/A invasão do sagaz homem fumaça (2000)/Marcelo D2 - 06 - Four Track.mp3
+313:Marcelo D2/A invasão do sagaz homem fumaça (2000)/Marcelo D2 - 07 - Gorilla Grip.mp3
+314:Marcelo D2/A invasão do sagaz homem fumaça (2000)/Marcelo D2 - 08 - Contexto.mp3
+315:Marcelo D2/A invasão do sagaz homem fumaça (2000)/Marcelo D2 - 09 - Dz Cuts.mp3
+316:Marcelo D2/A invasão do sagaz homem fumaça (2000)/Marcelo D2 - 10 - Raprockandrollpsicodeliahardcoregga.mp3
+317:Marcelo D2/A invasão do sagaz homem fumaça (2000)/Marcelo D2 - 11 - Quem tem seda.mp3
+318:Marcelo D2/A invasão do sagaz homem fumaça (2000)/Marcelo D2 - 12 - É isso que eu tenho no sangue.mp3
+319:Marcelo D2/A invasão do sagaz homem fumaça (2000)/Marcelo D2 - 13 - Quarta de cinzas.mp3
+320:Marcelo D2/A invasão do sagaz homem fumaça (2000)/Marcelo D2 - 14 - HC3.mp3
+321:Marcelo D2/A invasão do sagaz homem fumaça (2000)/Marcelo D2 - 15 - O sagaz homem fumaça.mp3
+322:Marcelo D2/À procura da batida perfeita (2003)/Marcelo D2 - 03 - Vai vendo.mp3
+323:Marcelo D2/À procura da batida perfeita (2003)/Marcelo D2 - 10 - ReBatucada.mp3
+324:Marcelo D2/À procura da batida perfeita (2003)/Marcelo D2 - 01 - Pra posteridade.mp3
+325:Marcelo D2/À procura da batida perfeita (2003)/Marcelo D2 - 02 - À procura da batida perfeita.mp3
+326:Marcelo D2/À procura da batida perfeita (2003)/Marcelo D2 - 05 - Pilotando o bonde da excursão.mp3
+327:Marcelo D2/À procura da batida perfeita (2003)/Marcelo D2 - 06 - Loadeando.mp3
+328:Marcelo D2/À procura da batida perfeita (2003)/Marcelo D2 - 07 - Profissão M.C.mp3
+329:Marcelo D2/À procura da batida perfeita (2003)/Marcelo D2 - 08 - C.B. sangue bom.mp3
+330:Marcelo D2/À procura da batida perfeita (2003)/Marcelo D2 - 09 - Batidas e levadas.mp3
+331:Marcelo D2/À procura da batida perfeita (2003)/Marcelo D2 - 11 - Qual é.mp3
+332:Marcelo D2/Acústico MTV/Marcelo D2 - Acústico MTV - 01 - Vai Vendo.mp3
+333:Marcelo D2/Acústico MTV/Marcelo D2 - Acústico MTV - 02 - A Maldição do Samba.mp3
+334:Marcelo D2/Acústico MTV/Marcelo D2 - Acústico MTV - 03 - À Procura Da Batida Perfeita.mp3
+335:Marcelo D2/Acústico MTV/Marcelo D2 - Acústico MTV - 04 - Eu Tive Um Sonho.mp3
+336:Marcelo D2/Acústico MTV/Marcelo D2 - Acústico MTV - 05 - 1967.mp3
+337:Marcelo D2/Acústico MTV/Marcelo D2 - Acústico MTV - 06 - Contexto.mp3
+338:Marcelo D2/Acústico MTV/Marcelo D2 - Acústico MTV - 07 - Samba De Primeira.mp3
+339:Marcelo D2/Acústico MTV/Marcelo D2 - Acústico MTV - 08 - Encontro Com Nogueira.mp3
+340:Marcelo D2/Acústico MTV/Marcelo D2 - Acústico MTV - 09 - Profissão MC.mp3
+341:Marcelo D2/Acústico MTV/Marcelo D2 - Acústico MTV - 10 - Pilotando o Bonde Da Excursão.mp3
+342:Marcelo D2/Acústico MTV/Marcelo D2 - Acústico MTV - 11 - Batucada.mp3
+343:Marcelo D2/Acústico MTV/Marcelo D2 - Acústico MTV - 12 - Re-Batucada.mp3
+344:Marcelo D2/Acústico MTV/Marcelo D2 - Acústico MTV - 13 - CB (Sangue Bom).mp3
+345:Marcelo D2/Acústico MTV/Marcelo D2 - Acústico MTV - 14 - Loadeando.mp3
+346:Marcelo D2/Acústico MTV/Marcelo D2 - Acústico MTV - 15 - Qual É.mp3
+347:Marcelo D2/Eu tiro é onda (1998)/Marcelo D2 - 01 - Intro.mp3
+348:Marcelo D2/Eu tiro é onda (1998)/Marcelo D2 - 02 - 1967.mp3
+349:Marcelo D2/Eu tiro é onda (1998)/Marcelo D2 - 03 - Sessão.mp3
+350:Marcelo D2/Eu tiro é onda (1998)/Marcelo D2 - 04 - Eu tiro é onda.mp3
+351:Marcelo D2/Eu tiro é onda (1998)/Marcelo D2 - 05 - Mantenha o respeito 2.mp3
+352:Marcelo D2/Eu tiro é onda (1998)/Marcelo D2 - 06 - Samba de primeira.mp3
+353:Marcelo D2/Eu tiro é onda (1998)/Marcelo D2 - 07 - Fazendo efeito.mp3
+354:Marcelo D2/Eu tiro é onda (1998)/Marcelo D2 - 08 - O império contra-ataca.mp3
+355:Marcelo D2/Eu tiro é onda (1998)/Marcelo D2 - 09 - Espancando o macaco.mp3
+356:Marcelo D2/Eu tiro é onda (1998)/Marcelo D2 - 10 - Eu tive um sonho.mp3
+357:Marcelo D2/Eu tiro é onda (1998)/Marcelo D2 - 11 - Encontro com Nogueira.mp3
+358:Marcelo D2/Eu tiro é onda (1998)/Marcelo D2 - 12 - Batucada.mp3
+359:Marcelo D2/Eu tiro é onda (1998)/Marcelo D2 - 13 - Baseado em fatos reais.mp3
+360:Marcelo D2/Hip Hop Rio/01-Hip Hop Rio-r$ 10 com filpeta r$ 8.mp3
+361:Marcelo D2/Hip Hop Rio/02-Hip Hop Rio-mahal - (mc´s emergentes).mp3
+362:Marcelo D2/Hip Hop Rio/03-Hip Hop Rio-3 preto - (estaca zero).mp3
+363:Marcelo D2/Hip Hop Rio/04-Hip Hop Rio-blacck alien & speed - (rude boy style).mp3
+364:Marcelo D2/Hip Hop Rio/05-Hip Hop Rio-imunanos - (lenda viva).mp3
+365:Marcelo D2/Hip Hop Rio/06-Hip Hop Rio-negaativa - (pula na muvuca).mp3
+366:Marcelo D2/Hip Hop Rio/07-Hip Hop Rio-bnegão - (prioridade).mp3
+367:Marcelo D2/Hip Hop Rio/08-Hip Hop Rio-nucleo sucata sound - (positive sound).mp3
+368:Marcelo D2/Hip Hop Rio/09-Hip Hop Rio-dj negralha - (aperte o play e aumente o p.a).mp3
+369:Marcelo D2/Hip Hop Rio/10-Hip Hop Rio-artigo 331 - (zona norte).mp3
+370:Marcelo D2/Hip Hop Rio/11-Hip Hop Rio-marcelo d2 - (a maldição do samba).mp3
+371:Marcelo D2/Hip Hop Rio/12-Hip Hop Rio-esquadrão zona norte - (terror na conduta ´´guerra 2´´).mp3
+372:Marcelo D2/Hip Hop Rio/13-Hip Hop Rio-a última do disco.mp3
+373:Marcelo D2/Meu samba é assim (2006)/Marcelo D2 - 01 - Meu samba é assim.mp3
+374:Marcelo D2/Meu samba é assim (2006)/Marcelo D2 - 02 - Sinistro.mp3
+375:Marcelo D2/Meu samba é assim (2006)/Marcelo D2 - 03 - É assim que se faz.mp3
+376:Marcelo D2/Meu samba é assim (2006)/Marcelo D2 - 04 - É preciso lutar.mp3
+377:Marcelo D2/Meu samba é assim (2006)/Marcelo D2 - 05 - Nunca esquecer.mp3
+378:Marcelo D2/Meu samba é assim (2006)/Marcelo D2 - 06 - Pra que amor.mp3
+379:Marcelo D2/Meu samba é assim (2006)/Marcelo D2 - 07 - Lapa.mp3
+380:Marcelo D2/Meu samba é assim (2006)/Marcelo D2 - 08 - Malandragem.mp3
+381:Marcelo D2/Meu samba é assim (2006)/Marcelo D2 - 09 - (Um filme) malandragem.mp3
+382:Marcelo D2/Meu samba é assim (2006)/Marcelo D2 - 10 - Falador.mp3
+383:Marcelo D2/Meu samba é assim (2006)/Marcelo D2 - 11 - Dor de verdade.mp3
+384:Marcelo D2/Meu samba é assim (2006)/Marcelo D2 - 12 - Nega.mp3
+385:Marcelo D2/Meu samba é assim (2006)/Marcelo D2 - 13 - That's What I Got.mp3
+386:Marcelo D2/Meu samba é assim (2006)/Marcelo D2 - 14 - Gueto.mp3
+387:Marcelo D2/Meu samba é assim (2006)/Marcelo D2 - 15 - Carta ao Presidente.mp3
+388:Marcelo D2/Os cães ladram mas a caravana não pára (1997)/Marcelo D2 - 01 Zerovinteum.mp3
+389:Marcelo D2/Os cães ladram mas a caravana não pára (1997)/Marcelo D2 - 02 Queimando Tudo.mp3
+390:Marcelo D2/Os cães ladram mas a caravana não pára (1997)/Marcelo D2 - 03 Hip Hop Rio.mp3
+391:Marcelo D2/Os cães ladram mas a caravana não pára (1997)/Marcelo D2 - 04 Bossa.mp3
+392:Marcelo D2/Os cães ladram mas a caravana não pára (1997)/Marcelo D2 - 05 100 Hardcore.mp3
+393:Marcelo D2/Os cães ladram mas a caravana não pára (1997)/Marcelo D2 - 06 Biruta.mp3
+394:Marcelo D2/Os cães ladram mas a caravana não pára (1997)/Marcelo D2 - 07 Mão Na Cabeca.mp3
+395:Marcelo D2/Os cães ladram mas a caravana não pára (1997)/Marcelo D2 - 08 O Bicho Tá Pegando.mp3
+396:Marcelo D2/Os cães ladram mas a caravana não pára (1997)/Marcelo D2 - 09 Adoled (The Ocean).mp3
+397:Marcelo D2/Os cães ladram mas a caravana não pára (1997)/Marcelo D2 - 10 - Seus amigos.mp3
+398:Marcelo D2/Os cães ladram mas a caravana não pára (1997)/Marcelo D2 - 11 - Paga pau.mp3
+399:Marcelo D2/Os cães ladram mas a caravana não pára (1997)/Marcelo D2 - 12 - Rappers reais.mp3
+400:Marcelo D2/Os cães ladram mas a caravana não pára (1997)/Marcelo D2 - 13 - Nega do cabelo duro.mp3
+401:Marcelo D2/Os cães ladram mas a caravana não pára (1997)/Marcelo D2 - 14 - Hemp Family.mp3
+402:Marcelo D2/Os cães ladram mas a caravana não pára (1997)/Marcelo D2 - 15 - Quem me cobrou.mp3
+403:Marcelo D2/Os cães ladram mas a caravana não pára (1997)/Marcelo D2 - 16 - Se liga.mp3
+404:Marcelo D2/Perfil/18 - Contexto - Planet Hemp.mp3
+405:Marcelo D2/Perfil/01 - A Procura Da Batida Perfeita.mp3
+406:Marcelo D2/Perfil/06 - Loadeando [Acustico].mp3
+407:Marcelo D2/Perfil/05 - Pra Que Amor - Part. Esp._ Alcione E Arlindo Cruz.mp3
+408:Marcelo D2/Perfil/09 - Lapa.mp3
+409:Marcelo D2/Perfil/14 - Falador [Falador Passa Mal].mp3
+410:Marcelo D2/Perfil/11 - Dor De Verdade - Part. Esp._ Zeca Pagodinho.mp3
+411:Marcelo D2/Perfil/10 - Nega.mp3
+412:Marcelo D2/Perfil/03 - 1967 [Acustico].mp3
+413:Marcelo D2/Perfil/04 - That´s What I Go- Part. Esp_ Chali Tuna E Cut....mp3
+414:Marcelo D2/Perfil/07 - C.B. [Sangue Bom] - Part. Esp._ Will.I.Am.mp3
+415:Marcelo D2/Perfil/08 - Mantenha O Respeiro.mp3
+416:Marcelo D2/Perfil/15 - Gueto - Part. Esp._ Mr. Catra.mp3
+417:Marcelo D2/Perfil/16 - Qual E (Kabaluere) - Faixa Bônus.mp3
+418:Marcelo D2/Perfil/12 - Pot-PourriBatucada - A Batucada Dos Nossos Tantãs.mp3
+419:Marcelo D2/Usuário/01 - Não Compre, Plante!.mp3
+420:Marcelo D2/Usuário/02 - Porcos Fardados.mp3
+421:Marcelo D2/Usuário/03 - Legalize Já.mp3
+422:Marcelo D2/Usuário/04 - Deisdazseis.mp3
+423:Marcelo D2/Usuário/05 - Phunky Buddha.mp3
+424:Marcelo D2/Usuário/06 - Maryjane.mp3
+425:Marcelo D2/Usuário/07 - Planet Hemp.mp3
+426:Marcelo D2/Usuário/08 - Fazendo A Cabeça.mp3
+427:Marcelo D2/Usuário/09 - Futuro Do País.mp3
+428:Marcelo D2/Usuário/10 - Mantenha O Respeito.mp3
+429:Marcelo D2/Usuário/11 - P...Disfarçada.mp3
+430:Marcelo D2/Usuário/12 - Speed Funk.mp3
+431:Marcelo D2/Usuário/13 - MuthaFuckin' Racists.mp3
+432:Marcelo D2/Usuário/14 - Dig Dig Dig (Hempa).mp3
+433:Planet Hemp/A invasão do sagaz homem fumaça (2000)/Planet Hemp - 01 - 12 com dezoito.mp3
+434:Planet Hemp/A invasão do sagaz homem fumaça (2000)/Planet Hemp - 02 - Ex-quadrilha da fumaça.mp3
+435:Planet Hemp/A invasão do sagaz homem fumaça (2000)/Planet Hemp - 03 - Teste drive de freio de camburão.mp3
+436:Planet Hemp/A invasão do sagaz homem fumaça (2000)/Planet Hemp - 04 - Procedência C.D.mp3
+437:Planet Hemp/A invasão do sagaz homem fumaça (2000)/Planet Hemp - 05 - Stab.mp3
+438:Planet Hemp/A invasão do sagaz homem fumaça (2000)/Planet Hemp - 06 - Four Track.mp3
+439:Planet Hemp/A invasão do sagaz homem fumaça (2000)/Planet Hemp - 07 - Gorilla Grip.mp3
+440:Planet Hemp/A invasão do sagaz homem fumaça (2000)/Planet Hemp - 08 - Contexto.mp3
+441:Planet Hemp/A invasão do sagaz homem fumaça (2000)/Planet Hemp - 09 - Dz Cuts.mp3
+442:Planet Hemp/A invasão do sagaz homem fumaça (2000)/Planet Hemp - 10 - Raprockandrollpsicodeliahardcoregga.mp3
+443:Planet Hemp/A invasão do sagaz homem fumaça (2000)/Planet Hemp - 11 - Quem tem seda.mp3
+444:Planet Hemp/A invasão do sagaz homem fumaça (2000)/Planet Hemp - 12 - É isso que eu tenho no sangue.mp3
+445:Planet Hemp/A invasão do sagaz homem fumaça (2000)/Planet Hemp - 13 - Quarta de cinzas.mp3
+446:Planet Hemp/A invasão do sagaz homem fumaça (2000)/Planet Hemp - 14 - HC3.mp3
+447:Planet Hemp/A invasão do sagaz homem fumaça (2000)/Planet Hemp - 15 - O sagaz homem fumaça.mp3
+448:Planet Hemp/Ao Vivo (MTV)/01 Intro.wma
+449:Planet Hemp/Ao Vivo (MTV)/02 Não compre, plante!.wma
+450:Planet Hemp/Ao Vivo (MTV)/03 Legalize já.wma
+451:Planet Hemp/Ao Vivo (MTV)/04 Raprockandrollpsicodeliahardcoreragga.wma
+452:Planet Hemp/Ao Vivo (MTV)/05 Queimando Tudo.wma
+453:Planet Hemp/Ao Vivo (MTV)/07 Procedência C.D.wma
+454:Planet Hemp/Ao Vivo (MTV)/08 Fazendo a Cabeça.wma
+455:Planet Hemp/Ao Vivo (MTV)/09 Planet Hemp - Stab.mp3
+456:Planet Hemp/Ao Vivo (MTV)/10 Dig Dig Dig (Hempa).wma
+457:Planet Hemp/Ao Vivo (MTV)/11 Phunky Buddha.wma
+458:Planet Hemp/Ao Vivo (MTV)/12 Hip Hop Rio.wma
+459:Planet Hemp/Ao Vivo (MTV)/13 A Culpa é de Quem-.wma
+460:Planet Hemp/Ao Vivo (MTV)/14 Se Liga.wma
+461:Planet Hemp/Ao Vivo (MTV)/15 Zerovinteum.wma
+462:Planet Hemp/Ao Vivo (MTV)/16 Contexto.wma
+463:Planet Hemp/Ao Vivo (MTV)/17 Mantenha O Respeito.mp3
+464:Planet Hemp/Os cães ladram mas a caravana não pára (1997)/Planet Hemp - 01 - Zerovinteum.mp3
+465:Planet Hemp/Os cães ladram mas a caravana não pára (1997)/Planet Hemp - 02 - Queimando tudo.mp3
+466:Planet Hemp/Os cães ladram mas a caravana não pára (1997)/Planet Hemp - 03 - Hip Hop Rio.mp3
+467:Planet Hemp/Os cães ladram mas a caravana não pára (1997)/Planet Hemp - 04 - Bossa.mp3
+468:Planet Hemp/Os cães ladram mas a caravana não pára (1997)/Planet Hemp - 05 - 100% hardcore.mp3
+469:Planet Hemp/Os cães ladram mas a caravana não pára (1997)/Planet Hemp - 06 - Biruta.mp3
+470:Planet Hemp/Os cães ladram mas a caravana não pára (1997)/Planet Hemp - 07 - Mão na cabeça.mp3
+471:Planet Hemp/Os cães ladram mas a caravana não pára (1997)/Planet Hemp - 08 - O bicho tá pegando.mp3
+472:Planet Hemp/Os cães ladram mas a caravana não pára (1997)/Planet Hemp - 09 - Adoled (The Ocean).mp3
+473:Planet Hemp/Os cães ladram mas a caravana não pára (1997)/Planet Hemp - 10 - Seus amigos.mp3
+474:Planet Hemp/Os cães ladram mas a caravana não pára (1997)/Planet Hemp - 11 - Paga pau.mp3
+475:Planet Hemp/Os cães ladram mas a caravana não pára (1997)/Planet Hemp - 12 - Rappers reais.mp3
+476:Planet Hemp/Os cães ladram mas a caravana não pára (1997)/Planet Hemp - 13 - Nega do cabelo duro.mp3
+477:Planet Hemp/Os cães ladram mas a caravana não pára (1997)/Planet Hemp - 14 - Hemp Family.mp3
+478:Planet Hemp/Os cães ladram mas a caravana não pára (1997)/Planet Hemp - 15 - Quem me cobrou.mp3
+479:Planet Hemp/Os cães ladram mas a caravana não pára (1997)/Planet Hemp - 16 - Se liga.mp3
+480:Planet Hemp/Usuário (1995)/Planet Hemp - 01 - Não compre, plante!.mp3
+481:Planet Hemp/Usuário (1995)/Planet Hemp - 02 - Porcos fardados.mp3
+482:Planet Hemp/Usuário (1995)/Planet Hemp - 03 - Legalize já.mp3
+483:Planet Hemp/Usuário (1995)/Planet Hemp - 04 - Deisdazseis.mp3
+484:Planet Hemp/Usuário (1995)/Planet Hemp - 05 - Phunky Buddha.mp3
+485:Planet Hemp/Usuário (1995)/Planet Hemp - 06 - Maryjane.mp3
+486:Planet Hemp/Usuário (1995)/Planet Hemp - 07 - Planet Hemp.mp3
+487:Planet Hemp/Usuário (1995)/Planet Hemp - 08 - Fazendo a cabeça.mp3
+488:Planet Hemp/Usuário (1995)/Planet Hemp - 09 - Futuro do país.mp3
+489:Planet Hemp/Usuário (1995)/Planet Hemp - 10 - Mantenha o respeito.mp3
+490:Planet Hemp/Usuário (1995)/Planet Hemp - 11 - P. disfarçada.mp3
+491:Planet Hemp/Usuário (1995)/Planet Hemp - 12 - Speed Funk.mp3
+492:Planet Hemp/Usuário (1995)/Planet Hemp - 13 - Muthafuckin' Racists.mp3
+493:Planet Hemp/Usuário (1995)/Planet Hemp - 14 - Dig dig dig (hempa).mp3
+494:Planet Hemp/Usuário (1995)/Planet Hemp - 15 - Skunk.mp3
+495:Planet Hemp/Usuário (1995)/Planet Hemp - 16 - A culpa é de quem.mp3
+496:Planet Hemp/Usuário (1995)/Planet Hemp - 17 - Bala perdida.mp3
+497:Raimundos/Cantigas de roda (2014)/Raimundos - 01 - Cachorrinha.m4a
+498:Raimundos/Cantigas de roda (2014)/Raimundos - 02 - BOP.m4a
+499:Raimundos/Cantigas de roda (2014)/Raimundos - 03 - Baculejo.m4a
+500:Raimundos/Cantigas de roda (2014)/Raimundos - 04 - Gato da Rosinha.m4a
+501:Raimundos/Cantigas de roda (2014)/Raimundos - 05 - Cera quente.m4a
+502:Raimundos/Cantigas de roda (2014)/Raimundos - 06 - Rafael.m4a
+503:Raimundos/Cantigas de roda (2014)/Raimundos - 07 - Descendo na banguela.m4a
+504:Raimundos/Cantigas de roda (2014)/Raimundos - 08 - Dubmundos.m4a
+505:Raimundos/Cantigas de roda (2014)/Raimundos - 09 - Nó suíno.m4a
+506:Raimundos/Cantigas de roda (2014)/Raimundos - 10 - Importada do interior.m4a
+507:Raimundos/Cantigas de roda (2014)/Raimundos - 11 - Gordelícia.m4a
+508:Raimundos/Cantigas de roda (2014)/Raimundos - 12 - Politics.m4a
+509:Raimundos/Éramos 4 (2001)/Raimundos - 01 - Sanidade.m4a
+510:Raimundos/Éramos 4 (2001)/Raimundos - 02 - Desculpe mas eu vou chorar.m4a
+511:Raimundos/Éramos 4 (2001)/Raimundos - 03 - Nana neném.m4a
+512:Raimundos/Éramos 4 (2001)/Raimundos - 04 - Sheena is a Punk Rocker.m4a
+513:Raimundos/Éramos 4 (2001)/Raimundos - 05 - Rockaway Beach.m4a
+514:Raimundos/Éramos 4 (2001)/Raimundos - 06 - Teenage Lobotomy.m4a
+515:Raimundos/Éramos 4 (2001)/Raimundos - 07 - I Wanna Be Well.m4a
+516:Raimundos/Éramos 4 (2001)/Raimundos - 08 - I Don't Care.m4a
+517:Raimundos/Éramos 4 (2001)/Raimundos - 09 - Rock'n'Roll High School.m4a
+518:Raimundos/Éramos 4 (2001)/Raimundos - 10 - Needles and Pins.m4a
+519:Raimundos/Éramos 4 (2001)/Raimundos - 11 - Do You Wanna Dance.m4a
+520:Raimundos/Éramos 4 (2001)/Raimundos - 12 - Pinhead.m4a
+521:Raimundos/Éramos 4 (2001)/Raimundos - 13 - Blitzkrieg Bop.m4a
+522:Raimundos/Kavookavala (2002)/Raimundos - 01 - Fique! Fique!.m4a
+523:Raimundos/Kavookavala (2002)/Raimundos - 02 - Crocodilo Meio Kilo.m4a
+524:Raimundos/Kavookavala (2002)/Raimundos - 03 - Joey.m4a
+525:Raimundos/Kavookavala (2002)/Raimundos - 04 - Vento Certo (Água da Mina).m4a
+526:Raimundos/Kavookavala (2002)/Raimundos - 05 - Kavookavala.m4a
+527:Raimundos/Kavookavala (2002)/Raimundos - 06 - El Mariachi.m4a
+528:Raimundos/Kavookavala (2002)/Raimundos - 07 - Mas Vó.m4a
+529:Raimundos/Kavookavala (2002)/Raimundos - 08 - Princesinha.m4a
+530:Raimundos/Kavookavala (2002)/Raimundos - 09 - Uabarrêba.m4a
+531:Raimundos/Kavookavala (2002)/Raimundos - 10 - Atitude Severa.m4a
+532:Raimundos/Kavookavala (2002)/Raimundos - 11 - Pegamutukalá.m4a
+533:Raimundos/Kavookavala (2002)/Raimundos - 12 - Baixo Calão.m4a
+534:Raimundos/Lapadas do povo (1997)/Raimundos - 01 - Andar na pedra.m4a
+535:Raimundos/Lapadas do povo (1997)/Raimundos - 02 - Véio, manco e gordo.m4a
+536:Raimundos/Lapadas do povo (1997)/Raimundos - 03 - O toco.m4a
+537:Raimundos/Lapadas do povo (1997)/Raimundos - 04 - Poquito más (Healthy Food).m4a
+538:Raimundos/Lapadas do povo (1997)/Raimundos - 05 - Wipe Out.m4a
+539:Raimundos/Lapadas do povo (1997)/Raimundos - 06 - CC de com força.m4a
+540:Raimundos/Lapadas do povo (1997)/Raimundos - 07 - Crumis Ódamis.m4a
+541:Raimundos/Lapadas do povo (1997)/Raimundos - 08 - Bonita.m4a
+542:Raimundos/Lapadas do povo (1997)/Raimundos - 09 - Ui, ui, ui.m4a
+543:Raimundos/Lapadas do povo (1997)/Raimundos - 10 - Oliver's Army.m4a
+544:Raimundos/Lapadas do povo (1997)/Raimundos - 11 - Nariz de doze.m4a
+545:Raimundos/Lapadas do povo (1997)/Raimundos - 12 - Pequena Raimunda (Ramona).m4a
+546:Raimundos/Lapadas do povo (1997)/Raimundos - 13 - Baile Funky.m4a
+547:Raimundos/Lapadas do povo (1997)/Raimundos - 14 - Bass Hell (Bônus Crap).m4a
+548:Raimundos/Lavô tá novo (1995)/Raimundos - 01 - Tora tora.m4a
+549:Raimundos/Lavô tá novo (1995)/Raimundos - 02 - Eu quero ver o oco.m4a
+550:Raimundos/Lavô tá novo (1995)/Raimundos - 03 - Opa! Peraí, caceta.m4a
+551:Raimundos/Lavô tá novo (1995)/Raimundos - 04 - O pão da minha prima.m4a
+552:Raimundos/Lavô tá novo (1995)/Raimundos - 05 - Pitando no kombão.m4a
+553:Raimundos/Lavô tá novo (1995)/Raimundos - 06 - Bestinha.m4a
+554:Raimundos/Lavô tá novo (1995)/Raimundos - 07 - Esporrei na manivela.m4a
+555:Raimundos/Lavô tá novo (1995)/Raimundos - 08 - Tá querendo desquitar (Ela tá dando).m4a
+556:Raimundos/Lavô tá novo (1995)/Raimundos - 09 - Sereia da pedreira.m4a
+557:Raimundos/Lavô tá novo (1995)/Raimundos - 10 - I Saw You Saying (That You Say That You Saw).m4a
+558:Raimundos/Lavô tá novo (1995)/Raimundos - 11 - Cabeça de bode.m4a
+559:Raimundos/Lavô tá novo (1995)/Raimundos - 12 - Herbocinética.m4a
+560:Raimundos/Raimundos (1994)/Raimundos - 01 - Puteiro em João Pessoa.m4a
+561:Raimundos/Raimundos (1994)/Raimundos - 02 - Palhas do coqueiro.m4a
+562:Raimundos/Raimundos (1994)/Raimundos - 03 - MM's.m4a
+563:Raimundos/Raimundos (1994)/Raimundos - 04 - Minha cunhada.m4a
+564:Raimundos/Raimundos (1994)/Raimundos - 05 - Rapante.m4a
+565:Raimundos/Raimundos (1994)/Raimundos - 06 - Carro forte.m4a
+566:Raimundos/Raimundos (1994)/Raimundos - 07 - Nega Jurema.m4a
+567:Raimundos/Raimundos (1994)/Raimundos - 08 - Deixei de fumar cana caiana.m4a
+568:Raimundos/Raimundos (1994)/Raimundos - 09 - Cajueiro & Rio das Pedras.m4a
+569:Raimundos/Raimundos (1994)/Raimundos - 10 - Bê a bá.m4a
+570:Raimundos/Raimundos (1994)/Raimundos - 11 - Bicharada.m4a
+571:Raimundos/Raimundos (1994)/Raimundos - 12 - Marujo.m4a
+572:Raimundos/Raimundos (1994)/Raimundos - 13 - Cintura fina.m4a
+573:Raimundos/Raimundos (1994)/Raimundos - 14 - Selim.m4a
+574:Raimundos/Raimundos (1994)/Raimundos - 15 - Puteiro em João Pessoa II.m4a
+575:Raimundos/Raimundos (1994)/Raimundos - 16 - Selim acústico.m4a
+576:Raimundos/Só no forevis (1999)/Raimundos - 01 - Só no forevis (Selim).m4a
+577:Raimundos/Só no forevis (1999)/Raimundos - 02 - Mato véio.m4a
+578:Raimundos/Só no forevis (1999)/Raimundos - 03 - Carrão de dois.m4a
+579:Raimundos/Só no forevis (1999)/Raimundos - 04 - Fome do cão.m4a
+580:Raimundos/Só no forevis (1999)/Raimundos - 05 - Mulher de fases.m4a
+581:Raimundos/Só no forevis (1999)/Raimundos - 06 - Alegria.m4a
+582:Raimundos/Só no forevis (1999)/Raimundos - 07 - A mais pedida.m4a
+583:Raimundos/Só no forevis (1999)/Raimundos - 08 - Boca de lata.m4a
+584:Raimundos/Só no forevis (1999)/Raimundos - 09 - Me lambe.m4a
+585:Raimundos/Só no forevis (1999)/Raimundos - 10 - Pompem.m4a
+586:Raimundos/Só no forevis (1999)/Raimundos - 11 - Deixa eu falar.m4a
+587:Raimundos/Só no forevis (1999)/Raimundos - 12 - Aquela.m4a
+588:Raimundos/Só no forevis (1999)/Raimundos - 13 - Língua presa.m4a
+589:Raimundos/Só no forevis (1999)/Raimundos - 14 - Mulher de fases (A linda).m4a
+590:Rincon sapiência/Galanga Livre (2017)/Rincon Sapiência - 01 - Intro.mp3
+591:Rincon sapiência/Galanga Livre (2017)/Rincon Sapiência - 02 - Crime Bárbaro.mp3
+592:Rincon sapiência/Galanga Livre (2017)/Rincon Sapiência - 03 - Vida Longa.mp3
+593:Rincon sapiência/Galanga Livre (2017)/Rincon Sapiência - 04 - A Volta pra Casa.mp3
+594:Rincon sapiência/Galanga Livre (2017)/Rincon Sapiência - 05 - Meu Bloco.mp3
+595:Rincon sapiência/Galanga Livre (2017)/Rincon Sapiência - 06 - Moça Namoradeira.mp3
+596:Rincon sapiência/Galanga Livre (2017)/Rincon Sapiência - 07 - A Noite é Nossa.mp3
+597:Rincon sapiência/Galanga Livre (2017)/Rincon Sapiência - 08 - Amores às Escuras.mp3
+598:Rincon sapiência/Galanga Livre (2017)/Rincon Sapiência - 09 - A Coisa Tá Preta.mp3
+599:Rincon sapiência/Galanga Livre (2017)/Rincon Sapiência - 10 - Benção.mp3
+600:Rincon sapiência/Galanga Livre (2017)/Rincon Sapiência - 11 - Galanga Livre.mp3
+601:Rincon sapiência/Galanga Livre (2017)/Rincon Sapiência - 12 - Ostentação à Pobreza.mp3
+602:Rincon sapiência/Galanga Livre (2017)/Rincon Sapiência - 13 - Ponta de Lança (Verso Livre).mp3
+603:Rincon sapiência/Rincon Sapiência - SP Gueto BR/Rincon Sapiência - Batidão.mp3
+604:Rincon sapiência/Rincon Sapiência - SP Gueto BR/Rincon Sapiência - Profissão Perigo.mp3
+605:Rincon sapiência/Rincon Sapiência - SP Gueto BR/Rincon Sapiência - Transporte Público (Remixtura).mp3
+606:Rincon sapiência/Rincon Sapiência - SP Gueto BR/Rincon Sapiência - Neguin Di Kebra Pt. 2.mp3
+607:Rincon sapiência/Rincon Sapiência - SP Gueto BR/Rincon Sapiência - É Real.mp3
+608:Rincon sapiência/Rincon Sapiência - SP Gueto BR/Rincon Sapiência - Coisas de Brasil.mp3
+609:Rincon sapiência/Rincon Sapiência - SP Gueto BR/Rincon Sapiência - Rep and Roll.mp3
+610:Rincon sapiência/Rincon Sapiência - SP Gueto BR/Rincon Sapiência - Festa no Gueto.mp3
+611:Rincon sapiência/Rincon Sapiência - SP Gueto BR/Rincon Sapiência - Andar Com Fé.mp3
+612:Rincon sapiência/Rincon Sapiência - SP Gueto BR/Rincon Sapiência - Estilo Maloca.mp3
+613:SOJA/Amid the Noise and Haste (2014)/SOJA - 01 - Tear It Down.mp3
+614:SOJA/Amid the Noise and Haste (2014)/SOJA - 02 - Your Song.mp3
+615:SOJA/Amid the Noise and Haste (2014)/SOJA - 03 - I Believe.mp3
+616:SOJA/Amid the Noise and Haste (2014)/SOJA - 04 - Easier.mp3
+617:SOJA/Amid the Noise and Haste (2014)/SOJA - 05 - Shadow.mp3
+618:SOJA/Amid the Noise and Haste (2014)/SOJA - 06 - Once Upon a Time.mp3
+619:SOJA/Amid the Noise and Haste (2014)/SOJA - 07 - Promises and Pills.mp3
+620:SOJA/Amid the Noise and Haste (2014)/SOJA - 08 - Signature.mp3
+621:SOJA/Amid the Noise and Haste (2014)/SOJA - 09 - She Still Loves Me.mp3
+622:SOJA/Amid the Noise and Haste (2014)/SOJA - 10 - Wait.mp3
+623:SOJA/Amid the Noise and Haste (2014)/SOJA - 11 - Better.mp3
+624:SOJA/Amid the Noise and Haste (2014)/SOJA - 12 - Treading Water.mp3
+625:SOJA/Amid the Noise and Haste (2014)/SOJA - 13 - Lucid Dreams.mp3
+626:SOJA/Amid the Noise and Haste (2014)/SOJA - 14 - Driving Faster.mp3
+627:SOJA/Amid the Noise and Haste (2014)/SOJA - 15 - Talking To Myself.mp3
+628:SOJA/Amid the Noise and Haste (2014)/SOJA - 16 - Translation of One.mp3
+629:SOJA/Born in Babylon (2009)/SOJA - 01 - Born in Babylon.mp3
+630:SOJA/Born in Babylon (2009)/SOJA - 02 - Losing My Mind.mp3
+631:SOJA/Born in Babylon (2009)/SOJA - 03 - Used to Matter.mp3
+632:SOJA/Born in Babylon (2009)/SOJA - 04 - Bleed Through (feat. Black Boo of Mambo Sauce).mp3
+633:SOJA/Born in Babylon (2009)/SOJA - 05 - You and Me (feat. Chris Boomer).mp3
+634:SOJA/Born in Babylon (2009)/SOJA - 06 - Don't Forget.mp3
+635:SOJA/Born in Babylon (2009)/SOJA - 07 - Decide You're Gone.mp3
+636:SOJA/Born in Babylon (2009)/SOJA - 08 - I Don't Wanna Wait.mp3
+637:SOJA/Born in Babylon (2009)/SOJA - 09 - I Tried (feat. Gentleman and Tamika).mp3
+638:SOJA/Born in Babylon (2009)/SOJA - 10 - Never Ever.mp3
+639:SOJA/Born in Babylon (2009)/SOJA - 12 - Summer Breeze.mp3
+640:SOJA/Born in Babylon (2009)/SOJA - 11 - Waking Up.mp3
+641:SOJA/Born in Babylon (2009)/SOJA - 13 - Thunderstorms.mp3
+642:SOJA/Born in Babylon (2009)/SOJA - 14 - Here I Am (feat. Marley, Rory and Eric of Rebelution).mp3
+643:SOJA/Born in Babylon (2009)/SOJA - 15 - Rest of My Life.mp3
+644:SOJA/Get Wiser (2006)/SOJA - 01 - Open My Eyes.mp3
+645:SOJA/Get Wiser (2006)/SOJA - 02 - By My Side.mp3
+646:SOJA/Get Wiser (2006)/SOJA - 03 - My Life Alone.mp3
+647:SOJA/Get Wiser (2006)/SOJA - 04 - Faith Works.mp3
+648:SOJA/Get Wiser (2006)/SOJA - 05 - What Would.mp3
+649:SOJA/Get Wiser (2006)/SOJA - 06 - Strong for Them.mp3
+650:SOJA/Get Wiser (2006)/SOJA - 07 - Can't Tell Me.mp3
+651:SOJA/Get Wiser (2006)/SOJA - 08 - Be Aware.mp3
+652:SOJA/Get Wiser (2006)/SOJA - 09 - I've Got Time.mp3
+653:SOJA/Get Wiser (2006)/SOJA - 10 - Sorry.mp3
+654:SOJA/Get Wiser (2006)/SOJA - 11 - Bring Back the Truth.mp3
+655:SOJA/Get Wiser (2006)/SOJA - 12 - You Don't Know Me.mp3
+656:SOJA/Get Wiser (2006)/SOJA - 13 - 911.mp3
+657:SOJA/Get Wiser (2006)/SOJA - 14 - Devils.mp3
+658:SOJA/Peace in a Time of War (2003)/SOJA - 01 - Revolution.mp3
+659:SOJA/Peace in a Time of War (2003)/SOJA - 02 - Reality.mp3
+660:SOJA/Peace in a Time of War (2003)/SOJA - 03 - Non-Partial, Non-Political.mp3
+661:SOJA/Peace in a Time of War (2003)/SOJA - 04 - Look Within.mp3
+662:SOJA/Peace in a Time of War (2003)/SOJA - 05 - Rasta Courage.mp3
+663:SOJA/Peace in a Time of War (2003)/SOJA - 06 - Peace in a Time of War.mp3
+664:SOJA/Peace in a Time of War (2003)/SOJA - 07 - Creeping In.mp3
+665:SOJA/Peace in a Time of War (2003)/SOJA - 08 - Brothers & Sisters.mp3
+666:SOJA/Peace in a Time of War (2003)/SOJA - 09 - True Love.mp3
+667:SOJA/Peace in a Time of War (2003)/SOJA - 10 - Jah Atmosphere.mp3
+668:SOJA/Peace in a Time of War (2003)/SOJA - 11 - Mother Earth.mp3
+669:SOJA/Peace in a Time of War (2003)/SOJA - 12 - Forgive, Don't Forget.mp3
+670:SOJA/Peace in a Time of War (2003)/SOJA - 13 - Did You Ever.mp3
+671:SOJA/Peace in a Time of War (2003)/SOJA - 14 - Time Come Due.mp3
+672:SOJA/Peace in a Time of War (2003)/SOJA - 15 - The End.mp3
+673:SOJA/Poetry In Motion (2017)/SOJA - 01 - Moving Stones.mp3
+674:SOJA/Poetry In Motion (2017)/SOJA - 02 - I Can't Stop Dreaming.mp3
+675:SOJA/Poetry In Motion (2017)/SOJA - 04 - Tried My Best.mp3
+676:SOJA/Poetry In Motion (2017)/SOJA - 03 - More.mp3
+677:SOJA/Poetry In Motion (2017)/SOJA - 05 - Fire In The Sky.mp3
+678:SOJA/Poetry In Motion (2017)/SOJA - 06 - Everything To Me.mp3
+679:SOJA/Poetry In Motion (2017)/SOJA - 07 - Life Support.mp3
+680:SOJA/Poetry In Motion (2017)/SOJA - 08 - Bad News.mp3
+681:SOJA/Poetry In Motion (2017)/SOJA - 09 - To Whom It May Concern.mp3
+682:SOJA/Poetry In Motion (2017)/SOJA - 10 - Sing To Me.mp3
+683:SOJA/Poetry In Motion (2017)/SOJA - 11 - I Found You.mp3
+684:SOJA/Strength to Survive (2011)/SOJA - 01 - Mentality.mp3
+685:SOJA/Strength to Survive (2011)/SOJA - 02 - Strength to Survive.mp3
+686:SOJA/Strength to Survive (2011)/SOJA - 03 - Everything Changes.mp3
+687:SOJA/Strength to Survive (2011)/SOJA - 04 - Don't Worry.mp3
+688:SOJA/Strength to Survive (2011)/SOJA - 05 - Tell Me.mp3
+689:SOJA/Strength to Survive (2011)/SOJA - 06 - It's Not Too Late.mp3
+690:SOJA/Strength to Survive (2011)/SOJA - 07 - Gone Today.mp3
+691:SOJA/Strength to Survive (2011)/SOJA - 08 - Let You Go.mp3
+692:SOJA/Strength to Survive (2011)/SOJA - 09 - Not Done Yet.mp3
+693:SOJA/Strength to Survive (2011)/SOJA - 10 - Slow Down.mp3
+694:SOJA/Strength to Survive (2011)/SOJA - 11 - Be With Me Now.mp3
+695:SOJA/Strength to Survive (2011)/SOJA - 12 - When We Were Younger.mp3
+696:SOJA/Strength to Survive (2011)/SOJA - 13 - Gone Today (acoustic 2010).mp3
+697:Dropkick Murphy's - 11 - I'm Shipping Up To Boston.mp3
+698:Manu Chao - Mano Negra Mala Vida.mp3
+699:Sweet Child O Mine - Captain fantastic.mp3
+700:The Hook.mp3
+playlist_end

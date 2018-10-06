@@ -1,0 +1,100 @@
+-run-list-command ". ~/Documents/scripts/alias.sh" -run-command "/bin/bash -i -c '{cmd}'" -rnow,96
+2,v
+3,v
+e,v
+&,v
+/home/dan/.local/share/vivaldi-snapshot/vivaldi-snapshot& ,58
+/home/dan/.local/share/vivaldi-snapshot/vivaldi-snapshot& ,v
+},v
+  puts 10.times do,V
+    puts 10.times do,V
+      puts 10.times do,V
+        puts 10.times do,V
+          puts 10.times do,V
+            puts 10.times do,V
+              puts 10.times do,V
+                puts 10.times do,V
+                  puts 10.times do,V
+                    puts ,V
+s,v
+",v
+,V
++,v
+puts "#{number1} + #{number2} = #{number1+number2}"puts "#{number1} - #{number2} = #{number1+number2}",V
+puts "#{number1} - #{number2} = #{number1+number2}",V
+number1+number2,15
+d,v
+number1+number2},16
+puts "#{number1} + #{number2} = #{add}",V
+alias vivaldi='/home/dan/.local/share/vivaldi-snapshot/vivaldi-snapshot',V
+/,v
+${XDG_DATA_HOME:-$HOME/.local/share}",37
+M,v
+        self.terceiroContainer = Frame(master)        self.terceiroContainer['padx'] = 20        self.terceiroContainer.pack(),V
+EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE,1
+                                                                                                                                                                                                                                                                                                                                                               ,1
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________,1
+____________,1
+.,v
+root = Tk()Application(root)root.mainloop(),V
+            self.mensagem['text'] = 'Autenticado'        else:            self.mensagem['text'] = 'Erro na autenticação',V
+from tkinter import *class Application:    def __init__(self, master=None):        self.fontePadrao = ("Arial", "10")        self.primeiroContainer = Frame(master)        self.primeiroContainer['pady'] = 10        self.primeiroContainer.pack()        self.segundoContainer = Frame(master)        self.segundoContainer['padx'] = 20        self.segundoContainer.pack()        self.terceiroContainer = Frame(master)        self.terceiroContainer['padx'] = 20        self.terceiroContainer.pack()        self.quartoContainer = Frame(master)        self.quartoContainer['pady'] = 20        self.quartoContainer.pack()        self.titulo = Label(self.primeiroContainer, text="Dados do usuário")        self.titulo['font'] = ('Arial', '10', 'bold')        self.titulo.pack()        self.nomeLabel = Label(self.segundoContainer, text='Nome', font.self.fontePadrao)        self.nomeLabel.pack(side=LEFT)        self.nome = Entry(self.segundoContainer)        self.nome["width"] = 30        self.nome["font"] = self.fontePadrao        self.nome.pack(side=LEFT)        self.senhaLabel = Label(self.terceiroContainer, text="Senha", font=self.fontePadrao)        self.senhaLabel.pack(side=LEFT)        self.senha = Entry(self.terceiroContainer)        self.senha["width"] = 30        self.senha['font'] = self.fontePadrao        self.senha['show'] = '*'        self.senha.pack(side=LEFT)        self.autenticar = Button(self.quartoContainer)        self.autenticar['text'] = "autenticar"        self.autenticar['font'] = self.fontePadrao        self.autenticar['width'] = 12        self.autenticar['command'] = self.verificaSenha        self.mensagem = Label(self.quartoContainer, text="", font=self.fontePadrao)        self.mensagem.pack()    def verificaSenha(self):        usuario = self.nome.get()        senha = self.senha.get()        if usuario == "teste" and senha == "admin":,V
+        self.autenticar['text'],V
+        self.autenticar,V
+terceiroterceiroterceiro,8
+ssegundoegundo,V
+segundosegundosegundo,7
+        self.segundoContainer = Frame(master)        self.segundoContainer['padx'] = 20        self.segundoContainer.pack(),V
+segundoContainer = Frame(master)segundoContainer['padx'] = 20segundoContainer.pack(),32
+C,v
+self.primeiroContainer = Framself.primeiroContainer['pady'self.primeiroContainer.pack(),29
+            self.msg["text"] = "Teste",V
+        else:,V
+            self.msg["text"] = "O botão recebeu um clique",V
+        if(self.msg["text"] == "Teste"):,V
+    def mudarTexto(self):,V
+         self.sair.pack(),V
+         self.sair['command'] = self.mudarTexto,V
+         self.sair["width"] = 10,V
+         self.sair["font"] = ("Calibri","10"),V
+         self.sair["text"] = 'Clique aqui',V
+         self.sair = Button(self.widget1),V
+         self.msg.pack(),V
+         self.msg["font"] = ("Verdana","10", "italic", "bold"),V
+         self.msg = Label(self.widget1, text='Teste'),V
+         self.widget1.pack(),V
+         self.widget1 = Frame(master),V
+),v
+t,v
+### Aplicação ###,V
+### Teste ###,V
+*,v
+ ,v
+rofi.color-window: argb:ffffffff,V
+rofi.color-active: argb:ffffffff , #6699cc , argb:ffffffff , #6699cc , #1b2b34,V
+rofi.color-urgent: argb:ffffffff , #ff372c , argb:ffffffff , #ff372c , #1b2b34,V
+rofi.color-normal: argb:ffffffff , #353535 , argb:ffffffff , #ff372c , #1b2b34,V
+rofi.color-enabled: true,V
+rofi.font: Anonymous Pro, Regular, 20,V
+T,v
+bindsym $mod+Shift+v exec $pss ~/mpv-trakt-sync-daemon/sync_daemon.py &,V
+>,v
+  1 cd ~/mpv-trakt-sync-daemon,V
+  2 source venv/bin/a,V
+~,V
+4,v
+~/.config/scripts,v
+ /opt/Lidarr/Lidarr.exe,v
+ /opt/Emby/MediaBrowser.Server.Mono.exe,v
+/opt/NzbDrone/NzbDrone.exe,v
+/opt/Radarr/Radarr.exe,v
+h,v
+8,v
+# I'll later bind this to mod+a.,V
+# Then I have a window running R I use for basic arithmetic,V
+0,v
+a,v
+-c "print('Ola otraru')",v
+clear = lambda: os.system('clear'),V
+import os,V
+lear = lambda: os.system('clear'),V

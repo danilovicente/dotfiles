@@ -1,0 +1,2 @@
+import os
+cl = lambda: os.system('clear')
